@@ -7,7 +7,7 @@ Student, Web Developer, YouTuber, TikToker
 I've been studying at Hatyaiwittayalai School @ GEP (66)
 
 * 🌍  I'm based in Songkhla, Thailand
-* ✉️  You can contact me at [hello@cutebear.in.th](mailto:hello@cutebear.in.th)
+* ✉️  You can contact me at [contact@cutebear.in.th](mailto:contact@cutebear.in.th)
 * 🚀  I'm currently working on [Next.js](http://www.cutebear.in.th)
 * 🧠  I'm learning Next.js Framework and React
 * ⚡  I was born in 2010! Very young ig...
