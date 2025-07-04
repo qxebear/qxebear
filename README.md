@@ -8,7 +8,7 @@ I am currently studying at Hatyaiwittayalai School
 
 * 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [contact@cutebear.in.th](mailto:contact@cutebear.in.th)
-* 🚀  I'm currently working on [My Website](http://www.cutebear.in.th)
+* 🚀  I'm currently working on [My Website](https://www.cutebear.in.th)
 * 🧠  I'm learning Next.js, React, Vite, and Git
 * ⚡  I was born in 2010! Very young ig...
 
