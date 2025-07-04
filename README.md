@@ -1,10 +1,10 @@
-Hi ![](https://raw.githubusercontent.com/socutewhitebear/socutewhitebear/refs/heads/main/waving-hand_1f44b.gif) Welcome to My Profile, You can call me CuteBear.
+Hi ![](https://raw.githubusercontent.com/qxebear/qxebear/refs/heads/main/waving-hand_1f44b.gif) Welcome to My Profile, You can call me CuteBear.
 ===========================================================================================================================================================
 
 Student, Web Developer, YouTuber, TikToker
 ------------------------------------------
 
-I've been studying at Hatyaiwittayalai School
+I am currently studying at Hatyaiwittayalai School
 
 * 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [contact@cutebear.in.th](mailto:contact@cutebear.in.th)
