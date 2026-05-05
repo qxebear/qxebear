@@ -12,7 +12,7 @@
 - `🌏` **Country**: Thailand 🇹🇭
 - `🕖` **Timezone**: UTC+7 (Indochina Time)
 - `👤` **Pronouns**: She / Her / Bear / CuteBear
-- `🗣️` **Speaks**: Thai, English
+- `🗣️` **Speaks**: Thai, English (kinda..)
 - `🥍` **Hobbies**: Coding, eating, sleep
 - `🍔` **Favorite Food**: Pad Kra Phao, of course!
 
